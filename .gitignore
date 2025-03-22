@@ -1,0 +1,14 @@
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore C++ compiled object files
+*.o
+*.obj
+
+# Ignore compiled executables
+*.exe
+a.out
+
+# Ignore temporary files
+*.log
+*.tmp
