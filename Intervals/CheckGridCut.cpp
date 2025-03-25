@@ -52,7 +52,9 @@ class Solution {
 };
 
 int main() {
-    
+
+    // Link - https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/description
+
     int n = 5;
     vector<vector<int>> rectangles = {{1,0,5,2},{0,2,2,4},{3,2,5,3},{0,4,4,5}};
 
